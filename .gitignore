@@ -1,0 +1,10 @@
+# secrets and local state
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+
+# personal listening data (never commit)
+data/
+*.rds
